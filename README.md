@@ -8,8 +8,9 @@ Chinese：
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/linkea131/proxifier-keygen/master/img/yay.png" width=700>
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/linkea131/proxifier-keygen/master/img/yay.png" alt="Screenshot"/>
+</p>
 
 ##
 ```
@@ -21,4 +22,3 @@ The keys I've found on Google are dating from 2014 and still work on the current
 <p align="center">
   <img src="https://raw.githubusercontent.com/linkea131/proxifier-keygen/master/img/yay.png" alt="Screenshot"/>
 </p>
-```
