@@ -9,6 +9,7 @@ Chinese：
 # 示例图
 
 <img src="https://raw.githubusercontent.com/linkea131/proxifier-keygen/master/img/yay.png" width=700>
+```
 
 ##
 ```
