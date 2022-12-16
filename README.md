@@ -12,8 +12,7 @@ Chinese：
   <img src="https://raw.githubusercontent.com/linkea131/proxifier-keygen/master/img/yay.png" alt="Screenshot"/>
 </p>
 
-##
-```
+
 English：
 # proxifier-keygen
 A little keygen I wrote recently after I reversed [Proxifier](https://www.proxifier.com)'s simplistic key checking algorithm.
