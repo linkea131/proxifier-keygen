@@ -1,3 +1,7 @@
+原作者：thedroidgeek
+
+原项目地址：https://github.com/thedroidgeek/proxifier-keygen
+
 Chinese：
 # proxifier-keygen
 我最近在逆向后写的一个keygen [Proxifier](https://www.proxifier.com)'s 简单密钥验证算法.
